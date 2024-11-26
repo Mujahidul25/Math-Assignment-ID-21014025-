@@ -5,7 +5,7 @@ library(rstudioapi)
 
 # Set working directory to the location of your Excel file
 # Set the working directory to the folder where the file is located
-setwd("C:\Users\88017\OneDrive\Math Assignment")
+setwd("C:/Users/88017/OneDrive/Math Assignment")
 
 # Verify if the file exists
 file.exists("C:/Users/saifu/OneDrive/Desktop/Math Assignment.xls")
